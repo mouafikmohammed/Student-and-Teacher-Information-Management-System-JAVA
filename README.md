@@ -1,4 +1,4 @@
-# Student-and-Teacher-Information-Management-System-JAVA
+# Student and Teacher Information Management System JAVA
 Suppose that we are required to model students and teachers in our application. We can
 define a superclass called Person to store common properties such as name and address,
 and subclasses Student and Teacher for their specific properties. For students, we need to
